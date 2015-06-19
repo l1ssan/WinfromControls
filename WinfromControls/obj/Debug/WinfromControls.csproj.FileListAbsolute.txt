@@ -1,0 +1,8 @@
+E:\WinfromControls\WinfromControls\bin\Debug\WinfromControls.dll
+E:\WinfromControls\WinfromControls\bin\Debug\WinfromControls.pdb
+E:\WinfromControls\WinfromControls\obj\Debug\WinfromControls.SmartyTextBox.resources
+E:\WinfromControls\WinfromControls\obj\Debug\WinfromControls.csproj.GenerateResource.Cache
+E:\WinfromControls\WinfromControls\obj\Debug\WinfromControls.dll
+E:\WinfromControls\WinfromControls\obj\Debug\WinfromControls.pdb
+E:\WinfromControls\WinfromControls\obj\Debug\WinfromControls.Properties.Resources.resources
+E:\WinfromControls\WinfromControls\obj\Debug\WinfromControls.SmartyComboBox.resources
